@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../ex001"
+		},
+		{
+			"path": "../ex002"
+		},
+		{
+			"path": "../ex003"
+		},
+		{
+			"path": "../ex004"
+		},
+		{
+			"path": "../ex007"
+		},
+		{
+			"path": "../ex008"
+		},
+		{
+			"path": "../ex008b"
+		},
+		{
+			"path": "../ex009"
+		},
+		{
+			"path": "../ex010"
+		},
+		{
+			"path": "../ex011"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ex012"
+	}
+}

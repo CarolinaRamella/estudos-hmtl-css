@@ -1,0 +1,22 @@
+@charset "UTF-08";
+
+body {
+/* shorhand: 
+    font-style - font-weight - font-size - font-family */
+    font: 1em sans-serif
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 2em;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 1.5em;
+    font-style: italic;
+
+}

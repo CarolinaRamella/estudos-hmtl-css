@@ -1,0 +1,40 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Sweet';
+    src: url('Sweet Toffee.ttf') format('truetype'); font-weight: normal; font-style: normal;
+
+    /*tipos de format()
+     - opentype (otf)
+     - truetipe (ttf)
+     embedded-opentype
+     -trtruetype-aat
+     -svg */
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  text-align: justify;
+
+}
+
+h1 {
+    font-family: "Sweet";
+    font-size: 3em;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Sweet";
+    font-size: 2em;
+    text-align: right;
+}
+
+h3 {
+    font-family: "Sweet";
+    font-size: 1.5em;
+    text-align: left;
+}
+p {
+    text-indent: 30px;
+}
